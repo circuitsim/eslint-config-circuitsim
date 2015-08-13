@@ -1,5 +1,3 @@
-var defaultConfig = require('./index.js');
-
 module.exports = {
     "parser": "babel-eslint",
     "extends": "./index.js",
