@@ -34,7 +34,6 @@ module.exports = {
       "no-spaced-func": 2,
       "no-trailing-spaces": 2,
       "no-undef-init": 2,
-      "no-underscore-dangle": 2,
       "no-unused-expressions": 2,
       "no-use-before-define": 2,
       "no-with": 2,
