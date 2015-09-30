@@ -3,7 +3,7 @@ module.exports = {
     "extends": "./index.js",
     "rules": {
       "react/jsx-boolean-value": 1,
-      "jsx-quotes": 1,
+      "jsx-quotes": [1, "prefer-single"],
       "react/jsx-no-undef": 1,
       "react/jsx-uses-react": 1,
       "react/jsx-uses-vars": 1,
