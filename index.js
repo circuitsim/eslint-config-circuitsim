@@ -5,7 +5,6 @@ module.exports = {
       "no-alert": 2,
       "no-array-constructor": 2,
       "no-caller": 2,
-      "no-catch-shadow": 2,
       "no-empty-label": 2,
       "no-eval": 2,
       "no-extend-native": 2,
@@ -44,7 +43,7 @@ module.exports = {
       "dot-notation": [2, { "allowKeywords": true }],
       "eol-last": 2,
       "no-extra-parens": [2, "functions"],
-      "eqeqeq": 2,
+      "eqeqeq": [2, "smart"],
       "key-spacing": [2, { "beforeColon": false, "afterColon": true }],
       "new-cap": 2,
       "new-parens": 2,
@@ -79,7 +78,7 @@ module.exports = {
         "es6": true,
         "node": true,
         "browser": true,
-        "mocha": true,
+        "mocha": true
     },
     "ecmaFeatures": {
         "modules": true
