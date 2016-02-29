@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-circuitsim",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "ESLint settings for CircuitSim",
   "repository": {
     "type": "git",
