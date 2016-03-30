@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ThomWright/thom-eslint",
   "peerDependencies": {
     "eslint": "^2.2.0",
-    "babel-eslint": "^4.1.1"
+    "babel-eslint": "^6"
   }
 }
